@@ -4,6 +4,9 @@ https://youtube.com/.....
 Link to the slide:
 https://docs.google.com/presentation/.....
 
+Paper title:
+NLP using ANN
+
 Link to the paper:
 https://ieeexplore......
 
