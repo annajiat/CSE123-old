@@ -4,8 +4,9 @@ https://youtube.com/.....
 Link to the Concept Map:
 https://draw.io/...
 
-Name, Edition, year and publisher of the Book:
+Name, Author, Edition, year and publisher of the Book:
 Speech and Language Processing
+Jurafsky
 3rd edition
 2014
 Pearson
