@@ -18,6 +18,9 @@ did project:
 did something else
 ...
 
+was active in slack:
+http://slack post URL1
+http://slack post URL2
 
 Submitter:
 12345678 Name A
