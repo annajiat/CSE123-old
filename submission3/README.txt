@@ -1,7 +1,10 @@
 Link to unlisted youtube video:
 https://youtube.com/.....
 
-Public link to the Concept Map (anyone on the internet can view without login):
+Two public link to the Concept Map (anyone on the internet can view without login):
+PDF: 
+https://github.com/annajiat/CSE123/blob/main/submission3/Concept%20Map.pdf
+Native/original format: 
 https://draw.io/...
 
 Name, Author, Edition, year and publisher of the Book:
