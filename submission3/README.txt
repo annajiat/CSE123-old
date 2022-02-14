@@ -1,7 +1,7 @@
 Link to unlisted youtube video:
 https://youtube.com/.....
 
-Link to the Concept Map:
+Public link to the Concept Map (anyone on the internet can view without login):
 https://draw.io/...
 
 Name, Author, Edition, year and publisher of the Book:
