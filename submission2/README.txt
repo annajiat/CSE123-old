@@ -1,7 +1,7 @@
 Link to unlisted youtube video:
 https://youtube.com/.....
 
-Public link to the slide (Anyone on the internet can view):
+Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Paper title:
