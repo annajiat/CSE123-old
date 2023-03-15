@@ -1,4 +1,4 @@
-Link to unlisted youtube video:
+Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
@@ -13,7 +13,5 @@ https://ieeexplore......
 Group Number:
 0
 
-Group Members:
+Individual Submitter:
 12345678 Name A
-23456789 Name B
-34567890 Name C
