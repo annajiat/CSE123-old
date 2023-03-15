@@ -1,13 +1,13 @@
-Link to unlisted youtube video:
+Link to unlisted YouTube video:
 https://youtube.com/.....
 
-Two public link to the Concept Map (anyone on the internet can view without login):
+Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
 https://github.com/annajiat/CSE123/blob/main/submission3/Concept%20Map.pdf
 Native/original format: 
 https://draw.io/...
 
-Name, Author, Edition, year and publisher of the Book:
+Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
 Jurafsky
 3rd edition
@@ -27,3 +27,4 @@ Group Members:
 12345678 Name A
 23456789 Name B
 34567890 Name C
+45678901 Name D
