@@ -1,4 +1,4 @@
-Unlisted youtube video:
+Unlisted YouTube video:
 http://youtube....
 
 Conference submitted paper / paper submission / login Link:
@@ -17,7 +17,7 @@ Paper submission ID: (received) from conference/workshop
 1341234
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Langauge Processing: Techniques and Practices
+2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
 
 Conference URL:
 http://confsite/...
@@ -29,3 +29,4 @@ Group Members:
 12345678 Name A
 23456789 Name B
 34567890 Name C
+45678901 Name D
