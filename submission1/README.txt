@@ -1,5 +1,17 @@
-Link to unlisted youtube video:
+Link to unlisted YouTube video:
 https://youtube.com/.....
 
-Submitter:
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/.....
+
+Project title:
+NLP using ANN
+
+Group Number:
+0
+
+Group Members:
 12345678 Name A
+23456789 Name B
+34567890 Name C
+45678901 Name D
